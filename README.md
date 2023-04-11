@@ -32,7 +32,7 @@ Bienvenido a mi perfil de GitHub, aca podes encontrar todos los proyectos en los
 
 [![Whatsapp](https://raw.githubusercontent.com/sebadio/sebadio/main/assets/wp.png)](https://wa.me/message/VUGV3ZGKPTZTO1)
 [![Mail](https://raw.githubusercontent.com/sebadio/sebadio/main/assets/mail.png)](mailto:sebastiandiazdopazo@gmail.com)
-[![Mail](https://raw.githubusercontent.com/sebadio/sebadio/main/assets/linkedin.png)](https://www.linkedin.com/in/sebastian-dd/)
+[![LinkedIn](https://raw.githubusercontent.com/sebadio/sebadio/main/assets/linkedin.png)](https://www.linkedin.com/in/sebastian-dd/)
 
 #
 
