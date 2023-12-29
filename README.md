@@ -37,4 +37,4 @@ Bienvenido a mi perfil de GitHub, aca podes encontrar todos los proyectos en los
 
 #
 
-Tambien tengo un [Portafolio](https://sebadio.github.io/Portafolio/) 👈🏻.
+Tambien tengo un [Portafolio](https://sebasdiaz.com) 👈🏻.
