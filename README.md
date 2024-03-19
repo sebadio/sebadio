@@ -1,12 +1,12 @@
 <h1 align="center">Sebastián Díaz Dopazo || sebadio</h1>
 
-<h3>¡Hola! Soy un desarrollador fullstack estudiando una carrera de Licenciatura en Sistemas en la Universidad ORT</h3>
+<h3>Hi! I'm a fullstack developer studying a Bachelor's degree in Systems at ORT University.</h3>
 
-Esto es un resumen de todo lo que se hacer, te invito a visitar mi [Portafolio](https://sebasdiaz.com) 👈🏻.
+This is a summary of everything I know how to do, I invite you to visit my [Portfolio](https://sebasdiaz.com) 👈🏻.
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; flex-direction: column;">
     <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; flex-direction: column;">
-        <h2 align="center">Lenguajes y herramientas que utilizo 🛠</h2>
+        <h2 align="center">Languages and tools 🛠</h2>
         - Web Dev
         <div>
             <a href="https://developer.mozilla.org/docs/Web/HTML" rel="noreferrer"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></a>
@@ -28,7 +28,7 @@ Esto es un resumen de todo lo que se hacer, te invito a visitar mi [Portafolio](
         </div>
         <br />
         <br />
-        - Bases de datos
+        - Databases
         <div>
             <a href="https://www.mysql.com/" rel="noreferrer"><img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></a>
             <a href="https://www.sqlite.org/" rel="noreferrer"><img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></a>
@@ -36,7 +36,7 @@ Esto es un resumen de todo lo que se hacer, te invito a visitar mi [Portafolio](
         </div>
         <br />
         <br />
-        - Otros
+        - Others
         <div>
             <a href="https://git-scm.com/" rel="noreferrer"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
             <a href="https://github.com" rel="noreferrer"><img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
@@ -47,9 +47,7 @@ Esto es un resumen de todo lo que se hacer, te invito a visitar mi [Portafolio](
 
 <br />
 
-<h2 align="center">Contactame 📲</h2>
-
-Puedes ponerte en contacto conmigo en:
+<h2 align="center">Contact Me 📲</h2>
 
 - [![WhatsApp](https://raw.githubusercontent.com/sebadio/sebadio/main/assets/wp.png)](https://wa.me/message/VUGV3ZGKPTZTO1) WhatsApp
 - [![Mail](https://raw.githubusercontent.com/sebadio/sebadio/main/assets/mail.png)](mailto:sebastiandiazdopazo@gmail.com) Mail
