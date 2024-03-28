@@ -24,6 +24,7 @@ This is a summary of everything I know how to do, I invite you to visit my [Port
             <a href="https://svelte.dev/" rel="noreferrer"><img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" /></a>
         </div>
         <br />
+        <br />
         - Backend
         <div align="center" >
             <a href="https://nodejs.org/en" rel="noreferrer"><img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
@@ -32,12 +33,14 @@ This is a summary of everything I know how to do, I invite you to visit my [Port
             <a href="https://www.docker.com/" rel="noreferrer"><img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
         </div>
         <br />
+        <br />
         - Databases
         <div>
             <a href="https://www.mysql.com/" rel="noreferrer"><img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></a>
             <a href="https://www.sqlite.org/" rel="noreferrer"><img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></a>
             <a href="https://www.mongodb.com/" rel="noreferrer"><img align="left" alt="Mongo Database" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
         </div>
+        <br />
         <br />
         - Tools
         <div>
