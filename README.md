@@ -7,7 +7,7 @@
 
 ### Hi! I'm a **fullstack developer** studying a Bachelor's degree in Systems at **ORT University**.
 
-This is a summary of everything I know how to do, I invite you to visit my [Portfolio 👈🏻](https://sebasdiaz.com).
+This is a summary of everything I know, for more info I invite you to visit my [Portfolio 👈🏻](https://sebasdiaz.com).
 
 <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; flex-direction: column;">
     <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; flex-direction: column;">
